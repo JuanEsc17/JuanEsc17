@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/es/view/pokemon-gengareguitar-gif-10693006001447972356"  />
+<div class="tenor-gif-embed" data-postid="10693006001447972356" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/pokemon-gengareguitar-gif-10693006001447972356">Pokemon Gengareguitar Sticker</a>from <a href="https://tenor.com/search/pokemon-stickers">Pokemon Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ###
 
