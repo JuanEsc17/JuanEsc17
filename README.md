@@ -20,7 +20,7 @@
 
 <br clear="both">
 
-## 🚀 Tecnologías & Lenguajes  
+## 🚀 Tecnologías y Lenguajes  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,nodejs,express,java,git,github,mongodb" />
 </p>
