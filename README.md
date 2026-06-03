@@ -14,43 +14,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanEsc17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&cache_seconds=0" height="150" alt="languages graph"  />
-</div>
-
 <br clear="both">
 
-## 🚀 Tecnologías y Lenguajes  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,nodejs,express,java,git,github,mongodb,cypress" />
-</p>
-
 ###
-
-<br clear="both">
-
-<h2 align="left">📬 Contacto</h2>
-
-###
-
-<br clear="both">
-
-<img align="right" height="128" src="https://media.tenor.com/lGUwTeltLgQAAAAj/pokemon-gengareguitar.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=juanescudero328@gmail.com&logo=gmail&label=Gmail&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-</div>
-<div>
-  <a href="https://www.linkedin.com/in/juan-escudero-ab6428255/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=linkedin.com/in/juan-escudero-ab6428255/&logo=linkedin&label=linkedin&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
 
 <h2 align="center">📚 Facultad</h2>
 
