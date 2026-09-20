@@ -43,11 +43,6 @@
   <a href="https://github.com/JuanEsc17/INGE1">
         <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JuanEsc17&repo=INGE1&theme=midnight-purple&bg_color=1F222E&icon_color=F8D866&show_icons=false&border_color=6a0dad" style="margin: 10px;">
     </a>
-  <h2 align="center">👨🏻‍💻 Personal</h2>
-  <h3 align="center"><b>🐍 Python</b></h3>
-  <a href="https://github.com/JuanEsc17/yt-2-spotify">
-        <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JuanEsc17&repo=yt-2-spotify&theme=midnight-purple&bg_color=1F222E&icon_color=F8D866&show_icons=false&border_color=6a0dad" style="margin: 10px;">
-    </a>
 </div>
 
 ###
