@@ -1,22 +1,4 @@
-<h1 align="center">Hola 👋! Soy Juan Escudero.</h1>
-
-###
-
-<h4 align="center">💻 Estudiante de Licenciatura en Sistemas en la UNLP</h4>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="140" src="https://media.tenor.com/YKKFzZ333a8AAAAj/mini-impact-miniimpact.gif"  />
-</div>
-
-###
-
-<br clear="both">
-
-###
+<h4 align="center">Estudiante de Licenciatura en Sistemas en la UNLP</h4>
 
 <h2 align="center">📚 Facultad</h2>
 
